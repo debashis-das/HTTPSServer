@@ -1,4 +1,5 @@
 """Simple https server for development."""
+"""References from https://gist.github.com/dergachev/7028596"""
 from enum import Enum
 import ssl
 from urllib.error import URLError
